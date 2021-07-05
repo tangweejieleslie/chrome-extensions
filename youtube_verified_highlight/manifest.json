@@ -1,0 +1,19 @@
+{
+  "name": "YouTube Creator Highlighting",
+  "description": "Used to highlight content creators that are verified to distinguish them from Bots and Spams",
+  "version": "1.0",
+  "manifest_version": 3,
+  "action": {
+    "default_popup": "hello.html",
+    "default_icon": "hello_extensions.png"
+  },
+  "permissions": [
+    "activeTab"
+  ],
+  "content_scripts":[
+      {
+          "matches": ["https://youtube.com/*", "https://www.youtube.com/*"],
+          "css": ["custom.css"]
+      }
+  ]
+}

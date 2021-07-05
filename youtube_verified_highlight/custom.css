@@ -1,10 +1,29 @@
 #author-comment-badge {
   background: #31572c !important;
-  --ytd-author-comment-badge-background-color: #31572c !important;
   color: #ecf39e !important;
   border-radius: 12px;
   padding-left: 5px;
   padding-right: 5px;
   margin-right: 3px;
  
+}
+
+#author-comment-badge > ytd-author-comment-badge-renderer .style-scope .ytd-comment-renderer {
+    --ytd-author-comment-badge-background-color: #31572c !important;
+    color: #ecf39e !important;
+}
+
+.style-scope .ytd-comment-renderer {
+    --ytd-author-comment-badge-background-color: #31572c !important;
+    /* color: #ecf39e !important; */
+}
+
+.ytd-author-comment-badge-renderer{
+    --ytd-author-comment-badge-background-color: #31572c !important;
+    color: #ecf39e !important;
+}
+
+#author-comment-badge > .style-scope .ytd-comment-renderer {
+    --ytd-author-comment-badge-background-color: #31572c !important;
+    color: #ecf39e !important;
 }

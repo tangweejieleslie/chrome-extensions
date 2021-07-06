@@ -3,6 +3,7 @@ body {
   background-color: #31572c;
   color: #ecf39e;
   margin: 0;
+  padding: 10px;
 }
 
 footer {
@@ -11,6 +12,10 @@ footer {
     padding: 10px;
     display: flex;
     flex-direction: row;
+}
+
+a {
+    color: #ecf39e;
 }
 
 .right-align{

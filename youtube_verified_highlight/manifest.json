@@ -7,14 +7,10 @@
     "default_popup": "index.html",
     "default_icon": "logo.png"
   },
-  "permissions": [
-    "activeTab"
-  ],
   "content_scripts":[
       {
           "matches": ["https://youtube.com/*", "https://www.youtube.com/*"],
-          "css": ["custom.css"],
-          "js": ["css.js"]
+          "css": ["custom.css"]
       }
   ]
 }

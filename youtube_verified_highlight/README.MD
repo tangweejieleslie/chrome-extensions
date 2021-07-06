@@ -6,8 +6,7 @@ Hopefully this will reduce the victims that falls to scams.
 
 # Screen Shots
 
-[[sample_main.png]] 
-
+![Screenshot of How Comment Section Looks like after using Extension](https://github.com/tangweejieleslie/chrome-extensions/blob/main/youtube_verified_highlight/images/Sample.png)
 
 
 # How to Use
@@ -30,6 +29,11 @@ Hopefully this will reduce the victims that falls to scams.
 5. Enable the Extension
 
 ![How to Load Chrome Extension](https://github.com/tangweejieleslie/chrome-extensions/blob/main/youtube_verified_highlight/images/how_to_use/3_enable%20extension.png)
+
+
+6. End Results
+
+![Screenshot of How Comment Section Looks like after using Extension](https://github.com/tangweejieleslie/chrome-extensions/blob/main/youtube_verified_highlight/images/Sample.png)
 
 
 # Feedback

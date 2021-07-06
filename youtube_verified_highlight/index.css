@@ -1,0 +1,42 @@
+body {
+  width: 300px;
+  background-color: #31572c;
+  color: #ecf39e;
+  margin: 0;
+}
+
+footer {
+    background-color: #132a13;
+    color: #ecf39e;
+    padding: 10px;
+    display: flex;
+    flex-direction: row;
+}
+
+.right-align{
+    text-align: right;
+    width: 100%;
+}
+
+.flex {
+  display: flex;
+  flex-direction: column;
+}
+
+.flex-row {
+  display: flex;
+  flex-direction: row;
+  /* flex-wrap: wrap; */
+}
+
+.header {
+}
+
+.config-section {
+}
+
+.sample {
+}
+
+.support {
+}

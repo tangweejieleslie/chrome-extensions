@@ -18,15 +18,18 @@ Hopefully this will reduce the victims that falls to scams.
 1. Go to `chrome://extensions` on your Chrome Browser
 
 2. Enable Developer Mode
-![How to Enable Developer Mode on Chrome](/images/how_to_use/1_enable%20developer%20mode.png)
+
+![How to Enable Developer Mode on Chrome](https://github.com/tangweejieleslie/chrome-extensions/blob/main/youtube_verified_highlight/images/how_to_use/1_enable%20developer%20mode.png)
 
 3. Click on "Load unpacked"
-![How to Load Chrome Extension](/images/how_to_use/2_load%20unpacked.png)
+
+![How to Load Chrome Extension](https://github.com/tangweejieleslie/chrome-extensions/blob/main/youtube_verified_highlight/images/how_to_use/2_load%20unpacked.png)
 
 4. Select the folder `youtube_verified_highlight`
 
 5. Enable the Extension
-![How to Load Chrome Extension](/images/how_to_use/3_enable%20extension.png)
+
+![How to Load Chrome Extension](https://github.com/tangweejieleslie/chrome-extensions/blob/main/youtube_verified_highlight/images/how_to_use/3_enable%20extension.png)
 
 
 # Feedback
